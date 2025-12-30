@@ -27,6 +27,7 @@ const Contact = () => {
             type="submit"
             className="bg-blue-500 text-white p-3 rounded-xl hover:bg-blue-600 transition"
           >
+          
             Send Message
           </button>
         </form>
